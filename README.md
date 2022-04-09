@@ -7,3 +7,4 @@ the database consiste of to have many information that we will add to it increme
 the horizontal radiation is the flow of sunshine on a horizental surface on earth as precedent explication this is the brut data from the statical calculation using the nasa data 
 ### 2)  the inclined radiation 
 this data is for the radiation on a surfaces in a  specifique angle where we can collect the maximum of radiation physicaly this mean that the surface is in 0° with the sun but the data publushed is the mid value because in the feild of the renewable energy all the time we have fixed pannel on the roof  
+### 3) the perfect angle 
